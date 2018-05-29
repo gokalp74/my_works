@@ -3,21 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication1;
+package MerhabaDunya;
 
 /**
  *
  * @author W10
  */
-public class JavaApplication1 {
-
+public class MerhabaDunya {
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Merhaba Dünya");
-        
-    }
-    
+    }    
 }
