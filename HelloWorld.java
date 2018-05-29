@@ -3,18 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package MerhabaDunya;
+package HelloWorld;
 
 /**
  *
  * @author gokalp74
  */
-public class MerhabaDunya {
+public class HelloWorld {
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Merhaba Dünya");
+        System.out.println("Hello World");
     }    
 }
