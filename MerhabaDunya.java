@@ -7,7 +7,7 @@ package MerhabaDunya;
 
 /**
  *
- * @author W10
+ * @author gokalp74
  */
 public class MerhabaDunya {
     /**
